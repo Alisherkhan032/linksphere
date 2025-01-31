@@ -1,7 +1,7 @@
 // CONSTANTS
 const APP_VERSION_STRING = "1.1.18";
-const CODE_INPUT_FIELD_ID = 'codeInputField'; //* jo command likhenge
-const GET_STARTED_NODE_ID = 'getStartedNodeId'; //* jaha se char by char print hota hua ayega wo para
+const CODE_INPUT_FIELD_ID = 'codeInputField'; 
+const GET_STARTED_NODE_ID = 'getStartedNodeId'; 
 const INPUT_COMMAND_STRIP_ID = 'inputCommandStrip';
 const INITIAL_SECTION_ID = 'initialSection';
 const LAST_UPDATED = "August 17th, 2024 02:55";
